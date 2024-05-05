@@ -33,6 +33,8 @@ public class Main {
             System.out.println("Это буква");
         }
      // подстроки
+
+
         String text2 = "Текст для проверки подстроки - пипец!!+";
         String xxx = "- ";
         int start = text2.indexOf(xxx) + xxx.length();
