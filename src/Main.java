@@ -5,6 +5,8 @@ import java.util.StringJoiner;
 public class Main {
     public static void main(String[] args) {
         //перебор символов
+
+        
         String hello = "Привет";
         char [] chars = hello.toCharArray();
             for (char c : chars) {
