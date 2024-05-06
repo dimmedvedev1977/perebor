@@ -34,7 +34,6 @@ public class Main {
         }
      // подстроки
 
-
         String text2 = "Текст для проверки подстроки - пипец!!+";
         String xxx = "- ";
         int start = text2.indexOf(xxx) + xxx.length();
