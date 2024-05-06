@@ -55,8 +55,8 @@ public class Main {
         System.out.println(list);
 
         // форматирование строки
-        String name = "Вася";
-        int age = 25;
+        String name = "Вася ";
+        int age = 35;
         String sss = "\"name\"  \"%s\" : \"age\"  \"%d\"";
         String result = String.format(sss,name,age);
         System.out.println(result);
